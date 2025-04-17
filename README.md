@@ -122,7 +122,7 @@ plt.show()
 
 > *This offers a powerful overview of how different content sources relate to each other.*
 
-![Heatmap Example](asstes/heatmap-placeholder.png)
+![Heatmap Example](assets/heatmap-placeholder.png)
 
 ---
 
