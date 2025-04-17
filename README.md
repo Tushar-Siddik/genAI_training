@@ -1,4 +1,4 @@
-# Blog Post: Dental Content Generation with Google Gen AI
+# Dental Content Generation with Google Gen AI
 
 ## Introduction
 
