@@ -1,0 +1,5 @@
+newspaper3k==0.2.8
+seaborn==0.12.2
+matplotlib==3.8.0
+scikit-learn==1.6.1
+lxml-html-clean==0.4.1
